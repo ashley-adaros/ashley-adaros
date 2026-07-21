@@ -3,7 +3,10 @@
 <!-- Banner animado de bienvenida -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,25&height=220&section=header&text=¡Hola,%20soy%20Ashley!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Ingeniería%20en%20Informática%20%7C%20Arica,%20Chile&descAlignY=55&descSize=18" width="100%"/>
 
-
+<!-- Texto tipeo animado -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F26F21&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Ashley+Aracely+Adaros+Guzmán;Software+Developer+%7C+Mobile+%26+Web;Apasionada+por+la+tecnología+con+impacto+social" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -75,6 +78,13 @@ Aplicación móvil de **guardado y gestión de contraseñas**, desarrollada en *
 
 ---
 
+### 🛋️ DecoVista
+Aplicación móvil desarrollada en **Kotlin y Java** que permite visualizar la **dimensionalidad de distintos muebles** de acuerdo al espacio y las dimensiones reales del lugar, ayudando al usuario a planificar la distribución de sus ambientes antes de comprar o instalar mobiliario.
+
+`Kotlin` `Java` `Android` `Diseño de Espacios` `Visualización 3D`
+
+---
+
 ### 🆘 [QR-SOS](https://github.com/ashley-adaros/QR-SOS)
 Plataforma **web/móvil de respuesta rápida ante emergencias (SOS)** para motociclistas. El sistema genera un **código QR único** por usuario, permitiendo a terceros acceder a información crítica en caso de accidente.
 
@@ -125,4 +135,3 @@ Prototipo de interfaz web (**HTML/CSS/JS**) para una **aplicación de transporte
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,25&height=120&section=footer" width="100%"/>
-
