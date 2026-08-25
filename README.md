@@ -119,7 +119,6 @@ Prototipo de interfaz web (**HTML/CSS/JS**) para una **aplicación de transporte
 
 > 
 
-## 📫 Contacto
 
 <div align="center">
 
