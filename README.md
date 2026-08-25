@@ -117,9 +117,7 @@ Prototipo de interfaz web (**HTML/CSS/JS**) para una **aplicación de transporte
 
 </div>
 
-> ⚠️ *Reemplaza `ashley-adaros` por tu usuario real de GitHub en todas las URLs de las imágenes de estadísticas para que se generen correctamente.*
-
----
+> 
 
 ## 📫 Contacto
 
